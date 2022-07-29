@@ -2,13 +2,13 @@
   "name": "react-electron-typescript-boilerplate",
   "description": "This project contains a boilerplate for React, Electron along with typescript and React routing",
   "author": "Nitesh Saxena",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "main": "public/main.js",
   "homepage": "./",
   "repository": {
     "type": "git",
-    "url": "your_github_repo_url"
+    "url": "https://github.com/NiteshSaxena/electron-react-typescript-boilerplate"
   },
   "scripts": {
     "ui-start": "cross-env BROWSER=none react-scripts start",
