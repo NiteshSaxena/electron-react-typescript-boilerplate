@@ -8,7 +8,7 @@
   "homepage": "./",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NiteshSaxena/electron-react-typescript-boilerplate"
+    "url": "your_git_repo_link_here"
   },
   "scripts": {
     "ui-start": "cross-env BROWSER=none react-scripts start",
